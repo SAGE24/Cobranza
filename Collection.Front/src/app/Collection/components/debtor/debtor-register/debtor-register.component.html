@@ -1,0 +1,60 @@
+<div class="modal fade" id="DebtorRegisterModal" tabindex="-1" aria-labelledby="DebtorRegisterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+        <div class="modal-header">
+            <h1 class="modal-title fs-5" id="DebtorRegisterTitle">Mantenimiento</h1>
+            <button type="button" #BtnCloseDebtor class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+            <form [formGroup]="FrmSave" autocomplete="off">
+                <div class="row">
+                    <div class="col-ms col-md-8">
+                        <label for="name" class="form-label">Nombre</label>
+                        <input type="text" class="form-control" id="name" formControlName="name" maxlength="50" required>
+                        <div class="invalid-feedback" *ngIf="BlnSave">
+                            Ingresar nombre
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-ms col-md-4">
+                        <label for="documentType" class="form-label">Tip.Documento</label>
+                        <select class="form-select" id="documentType" formControlName="documentType" required>
+                            <option selected value="">Seleccionar</option>
+                            <option value="DNI">DNI</option>
+                            <option value="RUC">RUC</option>
+                        </select>
+                        <div class="invalid-feedback" *ngIf="BlnSave">
+                            Seleccionar tipo de documento
+                        </div>
+                    </div>
+                    <div class="col-ms col-md-4">
+                        <label for="document" class="form-label">Documento</label>
+                        <input type="text" class="form-control" id="document" formControlName="document" maxlength="15">
+                        <div class="invalid-feedback" *ngIf="BlnSave">
+                            Ingresar número de documento
+                        </div>
+                    </div>
+                    <div class="col-ms col-md-4">
+                        <label for="birthdayDate" class="form-label">Fch.Nacimiento</label>
+                        <input type="date" class="form-control" formControlName="birthdayDate" id="birthdayDate">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-ms col-md-8">
+                        <label for="work" class="form-label">Trabajo</label>
+                        <input type="text" class="form-control" id="work" formControlName="work" maxlength="50">
+                    </div>
+                    <div class="col-ms col-md-4">
+                        <label for="salary" class="form-label">Salario</label>
+                        <input type="number" class="form-control" id="salary" formControlName="salary" min="0">
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-primary" (click)="FN_Process()">Guardar</button>
+        </div>
+        </div>
+    </div>
+</div>
