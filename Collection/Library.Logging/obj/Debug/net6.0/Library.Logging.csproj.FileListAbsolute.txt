@@ -1,0 +1,12 @@
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Logging\bin\Debug\net6.0\Library.Logging.deps.json
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Logging\bin\Debug\net6.0\Library.Logging.dll
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Logging\bin\Debug\net6.0\Library.Logging.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Logging\obj\Debug\net6.0\Library.Logging.csproj.AssemblyReference.cache
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Logging\obj\Debug\net6.0\Library.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Logging\obj\Debug\net6.0\Library.Logging.AssemblyInfoInputs.cache
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Logging\obj\Debug\net6.0\Library.Logging.AssemblyInfo.cs
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Logging\obj\Debug\net6.0\Library.Logging.csproj.CoreCompileInputs.cache
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Logging\obj\Debug\net6.0\Library.Logging.dll
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Logging\obj\Debug\net6.0\refint\Library.Logging.dll
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Logging\obj\Debug\net6.0\Library.Logging.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Logging\obj\Debug\net6.0\ref\Library.Logging.dll

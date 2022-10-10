@@ -1,0 +1,12 @@
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.AutoMapper\bin\Debug\net6.0\Library.AutoMapper.deps.json
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.AutoMapper\bin\Debug\net6.0\Library.AutoMapper.dll
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.AutoMapper\bin\Debug\net6.0\Library.AutoMapper.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.AutoMapper\obj\Debug\net6.0\Library.AutoMapper.csproj.AssemblyReference.cache
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.AutoMapper\obj\Debug\net6.0\Library.AutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.AutoMapper\obj\Debug\net6.0\Library.AutoMapper.AssemblyInfoInputs.cache
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.AutoMapper\obj\Debug\net6.0\Library.AutoMapper.AssemblyInfo.cs
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.AutoMapper\obj\Debug\net6.0\Library.AutoMapper.csproj.CoreCompileInputs.cache
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.AutoMapper\obj\Debug\net6.0\Library.AutoMapper.dll
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.AutoMapper\obj\Debug\net6.0\refint\Library.AutoMapper.dll
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.AutoMapper\obj\Debug\net6.0\Library.AutoMapper.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.AutoMapper\obj\Debug\net6.0\ref\Library.AutoMapper.dll

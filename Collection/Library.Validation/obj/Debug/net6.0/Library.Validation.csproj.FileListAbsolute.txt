@@ -1,0 +1,12 @@
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Validation\bin\Debug\net6.0\Library.Validation.deps.json
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Validation\bin\Debug\net6.0\Library.Validation.dll
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Validation\bin\Debug\net6.0\Library.Validation.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Validation\obj\Debug\net6.0\Library.Validation.csproj.AssemblyReference.cache
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Validation\obj\Debug\net6.0\Library.Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Validation\obj\Debug\net6.0\Library.Validation.AssemblyInfoInputs.cache
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Validation\obj\Debug\net6.0\Library.Validation.AssemblyInfo.cs
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Validation\obj\Debug\net6.0\Library.Validation.csproj.CoreCompileInputs.cache
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Validation\obj\Debug\net6.0\Library.Validation.dll
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Validation\obj\Debug\net6.0\refint\Library.Validation.dll
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Validation\obj\Debug\net6.0\Library.Validation.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Trabajos\Canvia\Collection\Library.Validation\obj\Debug\net6.0\ref\Library.Validation.dll

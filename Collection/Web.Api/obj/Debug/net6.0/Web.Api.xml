@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Web.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Web.Api.Controllers.DebtorController.Debtor(Service.EventHandler.Commands.Debtor)">
+            <summary>
+            Insertar datos de deudor.
+            </summary>
+        </member>
+        <member name="M:Web.Api.Controllers.DebtorController.Update(Service.EventHandler.Commands.DebtorUpdate)">
+            <summary>
+            Modificar datos de deudor.
+            </summary>
+        </member>
+        <member name="M:Web.Api.Controllers.DebtorController.Get(System.String)">
+            <summary>
+            Listar datos de deudor.
+            </summary>
+        </member>
+        <member name="M:Web.Api.Controllers.DebtorController.Delete(Service.EventHandler.Commands.DebtorDelete)">
+            <summary>
+            Inactivar registro de deudor.
+            </summary>
+        </member>
+    </members>
+</doc>

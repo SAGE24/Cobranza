@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "UW1EzRK4l6xwDPRKt2MnD0qBLWWHnqxVCtTzeikkJ8uacCNtCS8ZD+uKwTvfFv7ya/q/OfwMsbWQ31nNEe1w7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sage1\\OneDrive\\Sage-PC\\Trabajos\\Canvia\\Collection\\Library.AutoMapper\\Library.AutoMapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sage1\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\sage1\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\sage1\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\sage1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sage1\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\sage1\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\sage1\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
